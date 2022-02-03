@@ -1,0 +1,6 @@
+module Pods_RealtimeLinkForParents {
+  umbrella header "Pods-RealtimeLinkForParents-umbrella.h"
+
+  export *
+  module * { export * }
+}
